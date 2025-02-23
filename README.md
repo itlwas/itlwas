@@ -2,14 +2,12 @@
 
 I'm a software developer with a passion for creating efficient and scalable solutions. I thrive on tackling challenging projects that push me to grow and learn.
 
----
+
 
 ## About Me
 - I'm deeply interested in the efficiency and power of command-line interfaces.
 - I enjoy building tools that simplify and streamline everyday tasks.
 - I'm constantly exploring new technologies and refining my skills.
-
----
 
 ## Skills
 - **Programming Languages**:  
@@ -22,20 +20,15 @@ I'm a software developer with a passion for creating efficient and scalable solu
 
 - **Tools**: Git, GitHub
 
----
-
 ## Projects
-- **[Project Name]**: [Brief description of the project]  
-- **[Another Project]**: [Brief description]
-
----
+- [lk](https://github.com/itlwas/lk): A fast and flexible command-line tool for enhanced directory listing on Windows.
+- [cc](https://github.com/itlwas/cc): A fast and efficient command-line tool for an enhanced version of the cat command on Windows.
+- [mecro](https://github.com/itlwas/mecro): A modern and intuitive terminal-based text editor.
 
 ## Connect with Me
 - **Email**: [itlwas@duck.com](mailto:itlwas@duck.com)  
 - **Telegram**: [t.me/itlws](https://t.me/itlws)  
 - **Hugging Face**: [hf.co/itlwas](https://hf.co/itlwas)
-
----
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itlwas&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itlwas&layout=compact&theme=radical)
