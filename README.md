@@ -1,13 +1,6 @@
 # Welcome to my GitHub Profile!
 
-I'm a software developer with a passion for creating efficient and scalable solutions. I thrive on tackling challenging projects that push me to grow and learn.
-
-
-
-## About Me
-- I'm deeply interested in the efficiency and power of command-line interfaces.
-- I enjoy building tools that simplify and streamline everyday tasks.
-- I'm constantly exploring new technologies and refining my skills.
+<video src="https://user-images.githubusercontent.com/.../video.mp4" controls></video>
 
 ## Skills
 - **Programming Languages**:  
