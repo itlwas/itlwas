@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-<video src="https://user-images.githubusercontent.com/.../video.mp4" controls></video>
+https://github.com/user-attachments/assets/40779fff-95da-4588-b562-2cbe1cfae04d
 
 ## Skills
 - **Programming Languages**:  
