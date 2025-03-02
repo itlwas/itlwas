@@ -1,5 +1,3 @@
-# Welcome to my GitHub Profile!
-
 https://github.com/user-attachments/assets/40779fff-95da-4588-b562-2cbe1cfae04d
 
 ## Skills
