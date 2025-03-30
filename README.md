@@ -11,11 +11,6 @@ https://github.com/user-attachments/assets/40779fff-95da-4588-b562-2cbe1cfae04d
 
 - **Tools**: Git, GitHub
 
-## Projects
-- [lk](https://github.com/itlwas/lk): A fast and flexible command-line tool for enhanced directory listing on Windows.
-- [cc](https://github.com/itlwas/cc): A fast and efficient command-line tool for an enhanced version of the cat command on Windows.
-- [mecro](https://github.com/itlwas/mecro): A modern and intuitive terminal-based text editor.
-
 ## Connect with Me
 - **Email**: [itlwas@duck.com](mailto:itlwas@duck.com)  
 - **Telegram**: [t.me/itlws](https://t.me/itlws)  
