@@ -30,7 +30,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://hf.co/itlwas)
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="30%">
 
 ## 📊 Stats
 
